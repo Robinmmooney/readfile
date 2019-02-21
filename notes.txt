@@ -1,0 +1,7 @@
+var department = ["management", "stupidpeople", "smartpeople"];
+var departmentID = ["d001", "d002", "d003"];
+var employeeID = [[10017, 102, 103], [201, 202, 203], [10005, 302, 303]];
+var employeeName = [["bubba", "sally", "Tim"], ["Jim", "Kelly", "Poppi"]];
+console.log(roomNumbers[][]);
+var employees = [];
+
