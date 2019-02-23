@@ -13,8 +13,9 @@ for (var i = 0; i < departments.length; i++) {
     for (var j = 0; j < employeeID.length; j++) {
         console.log(`Employee: ${employeeID[i][j]} - ${employeeName[i][j]} - ${salaries[i][j]}`);
         total += salaries[i][j]; 
-        gTotal += total + total;
+        
     }
+gTotal += total;
 console.log("Department Total is:", total);
 }
 console.log("Grand Total is:", gTotal);
